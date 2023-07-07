@@ -39,7 +39,12 @@ Getting Started with EC2 for Multiple Virtual Machines
 
 AWS EC2 provides a powerful and flexible platform for running multiple virtual machines in the cloud. With its scalability, diverse instance types, networking capabilities, storage options, and management tools, EC2 enables you to build and manage a resilient and efficient infrastructure to meet your specific workload requirements.
 
-Demo Video: https://youtu.be/larU7M5ZV-E
+# Connecting End Users
+This repository provides a comprehensive step-by-step guide for connecting users to a system. The guide is provided in PDF format and contains detailed instructions to help users establish a successful connection. To get started with connecting users to the system, please refer to the user connection guide provided in [Connecting End Users](https://github.com/Amandine21/Virtualization/blob/main/Connecting%20End%20Users.pdf). 
+The guide covers the necessary steps and configurations required to establish a connection.
+
+#Demo Video
+https://youtu.be/larU7M5ZV-E
 
 
 
