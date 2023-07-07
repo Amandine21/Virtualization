@@ -20,7 +20,7 @@ The usage of this repository depends on the virtualization solution: AWS Lightsa
 
 To recreate the virtualization environment described in this repository, please refer to the detailed instructions provided in the accompanying PDF file. The PDF file contains step-by-step guidelines on setting up and configuring the environment using AWS Lightsail for a single virtual machine and AWS EC2 for multiple virtual machines.
 
-Please navigate to the [Recreating The Enviorement](./Recreating The Enviorement.pdf) in the repository for the complete walkthrough.
+Please navigate to the [Recreating The Enviorement](Recreating The Enviorement.pdf) in the repository for the complete walkthrough.
 
 
 # AWS Lightsail
