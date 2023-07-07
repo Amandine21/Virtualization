@@ -43,7 +43,7 @@ AWS EC2 provides a powerful and flexible platform for running multiple virtual m
 This repository provides a comprehensive step-by-step guide for connecting users to a system. The guide is provided in PDF format and contains detailed instructions to help users establish a successful connection. To get started with connecting users to the system, please refer to the user connection guide provided in [Connecting End Users](https://github.com/Amandine21/Virtualization/blob/main/Connecting%20End%20Users.pdf). 
 The guide covers the necessary steps and configurations required to establish a connection.
 
-#Demo Video
+# Demo Video
 To watch the virtualization demo, please click on the following link: [Virtualization Demo](https://youtu.be/larU7M5ZV-E)
 
 The video demonstrates the setup process, deployment of virtual machines, networking configurations, and utilization of various features within the virtualization environment. It aims to provide an overview and showcase the functionality of the system.
