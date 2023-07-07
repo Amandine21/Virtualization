@@ -11,18 +11,16 @@ Features
     Easily configurable options for networking, storage, and security
     Cost-effective solutions with the ability to choose instance types and pricing models
 
-Getting Started
+# Getting Started
 
 To get started with this repository, you will need an AWS account and the AWS CLI tool installed on your local machine. Follow the steps below to set up the repository and configure your virtual machines.
+The usage of this repository depends on the virtualization solution: AWS Lightsail or AWS EC2.
 
+# Recreating the Environment
 
-AWS configure
+To recreate the virtualization environment described in this repository, please refer to the detailed instructions provided in the accompanying PDF file. The PDF file contains step-by-step guidelines on setting up and configuring the environment using AWS Lightsail for a single virtual machine and AWS EC2 for multiple virtual machines.
 
-    Follow the specific instructions in the Lightsail or EC2 sections below, depending on your deployment requirements.
-
-Usage
-
-The usage of this repository depends on the virtualization solution you choose: AWS Lightsail or AWS EC2.
+Please navigate to the Recreating Enviorement.pdf in the repository for the complete walkthrough.
 
 
 # AWS Lightsail
