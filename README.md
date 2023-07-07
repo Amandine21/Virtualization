@@ -49,31 +49,6 @@ With Lightsail, you gain access to essential monitoring and metrics for your vir
 Lightsail integrates with other AWS services, such as AWS DNS management (Route 53) for domain registration and management, AWS Certificate Manager for SSL/TLS certificate provisioning, and AWS Load Balancer for distributing traffic across multiple instances.
 Getting Started with Lightsail
 
-To run a single virtual machine using AWS Lightsail, follow these steps:
-
-    Sign in to the AWS Management Console and navigate to the Lightsail service.
-
-    Click on "Create instance" to start the instance creation process.
-
-    Choose a region where you want to deploy your virtual machine.
-
-    Select an instance image (blueprint) based on your desired operating system and application stack.
-
-    Choose the instance size that meets your resource requirements and fits your budget.
-
-    Configure the instance settings, such as instance name, SSH key pair, and availability zone.
-
-    Optionally, configure additional settings such as storage, networking, and security groups.
-
-    Review the configuration details and click "Create instance" to launch your virtual machine.
-
-    Once the instance is running, you can access it via SSH using the provided public IP address and your SSH key pair.
-
-    You can monitor the performance and manage your instance through the Lightsail console, including features like scaling, backups, and networking configurations.
-
-Remember to consider your instance's security, regularly update your software, and follow AWS best practices to ensure the reliability and security of your virtual machine.
-Conclusion
-
 AWS Lightsail offers a user-friendly and cost-effective solution for running a single virtual machine in the cloud. With its simplified setup, integrated services, and scalable resources, Lightsail enables users to quickly deploy and manage virtual machines without the need for advanced cloud computing knowledge.
 
 AWS EC2 for Multiple Virtual Machines
@@ -100,31 +75,10 @@ EC2 integrates with AWS Elastic Load Balancer (ELB) and Auto Scaling, allowing y
 EC2 provides monitoring tools and metrics to track the performance of your instances. You can use Amazon CloudWatch to monitor CPU utilization, network traffic, disk I/O, and other metrics. Additionally, you can leverage AWS Systems Manager to automate administrative tasks, streamline software installations, and simplify instance management.
 Getting Started with EC2 for Multiple Virtual Machines
 
-To run multiple virtual machines using AWS EC2, follow these steps:
-
-    Sign in to the AWS Management Console and navigate to the EC2 service.
-
-    Launch an EC2 instance by selecting the desired instance type, operating system, and configuration options.
-
-    Specify the number of instances you want to launch and select additional options such as storage, security groups, and network settings.
-
-    Configure auto scaling groups and load balancers if necessary to handle varying traffic and ensure high availability.
-
-    Set up networking configurations, including subnets, VPCs, and security groups to isolate and secure your instances.
-
-    Configure storage options, such as attaching EBS volumes or using shared file systems like EFS, to provide persistent and scalable storage for your virtual machines.
-
-    Launch the instances and wait for them to start running.
-
-    Access the instances using SSH or Remote Desktop Protocol (RDP) depending on the operating system.
-
-    Install necessary software, configure applications, and set up any additional resources required for your workloads.
-
-    Monitor the performance of your instances using Amazon CloudWatch and make adjustments as needed, such as scaling instances or optimizing configurations.
-
-Remember to manage and secure your instances by regularly applying updates, implementing security best practices, and following AWS guidelines for protecting your infrastructure.
-Conclusion
 
 AWS EC2 provides a powerful and flexible platform for running multiple virtual machines in the cloud. With its scalability, diverse instance types, networking capabilities, storage options, and management tools, EC2 enables you to build and manage a resilient and efficient infrastructure to meet your specific workload requirements.
+
+Demo Video: https://youtu.be/larU7M5ZV-E
+
 
 
